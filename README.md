@@ -14,8 +14,9 @@ https://github.com/user-attachments/assets/c5733f9e-9a49-42fb-be06-1723523f267c
 
 https://github.com/user-attachments/assets/96f31066-a11a-449a-868c-3b5f37b356dc
 
-https://github.com/user-attachments/assets/5f59f697-01c1-441d-bc86-154ffab1a3f1
+Para manejar la información entre la computadora Nvidia Jetson y cada actuador, se ha implementado una red CAN:
 
+https://github.com/user-attachments/assets/306bf145-898f-40fc-9501-29e8cc22c7db
 
 
 
