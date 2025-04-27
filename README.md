@@ -1,6 +1,6 @@
 # Robot bípedo de 12 grados de libertad
 
-Diseño óptimo y construcción de un prototipo funcional utilizando un enfoque multiobjetivo, de un robot bípedo antropomórfico de 12 grados de libertad. El robot cuenta con actuadores basados en motores brushless para control de posición, velocidad y torque. El sistema embarcado está constituído por una computadora Nvidia Jetson Nano. En el video se aprecia el model CAD del robot en Autodesk Inventor.
+Diseño óptimo y construcción de un prototipo funcional utilizando un enfoque multiobjetivo, de un robot bípedo antropomórfico de 12 grados de libertad para aplicaciones en exoesqueletos para miembros inferiores. El robot cuenta con actuadores basados en motores brushless para control de posición, velocidad y torque. El sistema embarcado está constituído por una computadora Nvidia Jetson Nano. En el video se aprecia el model CAD del robot en Autodesk Inventor.
 
 https://github.com/user-attachments/assets/c57a32f4-97c3-4d2d-9497-000d92ab6e8b
 
