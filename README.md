@@ -10,6 +10,14 @@ El prototipo ha sido constrido por medio de impresion 3D, a continuación se mue
 
 ![WhatsApp Image 2025-04-27 at 4 20 50 PM](https://github.com/user-attachments/assets/3f891700-a149-4a0e-9117-598ba217e16d)
 
+![WhatsApp Image 2025-04-27 at 4 20 51 PM](https://github.com/user-attachments/assets/067a8d36-c29e-49bc-92c6-becf359adeb5)
+
+https://github.com/user-attachments/assets/17ee5b90-9c01-49e9-ba0b-6f275e90863d
+
+https://github.com/user-attachments/assets/d3f12020-b289-4275-849a-8353776162de
+
+
+
 
 
 
