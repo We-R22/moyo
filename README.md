@@ -10,6 +10,9 @@ El prototipo ha sido constrido por medio de impresion 3D en el laboratorio de Me
 ![WhatsApp Image 2025-04-27 at 4 20 49 PM](https://github.com/user-attachments/assets/1808f66a-85a9-49ab-b1ee-c6bc874b0746)
 ![WhatsApp Image 2025-04-27 at 4 20 50 PM](https://github.com/user-attachments/assets/3f891700-a149-4a0e-9117-598ba217e16d)
 ![WhatsApp Image 2025-04-27 at 4 20 51 PM](https://github.com/user-attachments/assets/067a8d36-c29e-49bc-92c6-becf359adeb5)
+![WhatsApp Image 2025-06-23 at 11 52 26 PM](https://github.com/user-attachments/assets/b88fb122-48b4-44f1-80c0-0c009096e854)
+![WhatsApp Image 2025-06-23 at 11 52 26 PM (2)](https://github.com/user-attachments/assets/5ed02d92-1697-4004-bfc4-6cbc70b1a113)
+
 
 https://github.com/user-attachments/assets/c5733f9e-9a49-42fb-be06-1723523f267c
 
