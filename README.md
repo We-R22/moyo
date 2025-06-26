@@ -12,11 +12,19 @@ El prototipo ha sido constrido por medio de impresion 3D en el laboratorio de Me
 ![WhatsApp Image 2025-04-27 at 4 20 51 PM](https://github.com/user-attachments/assets/067a8d36-c29e-49bc-92c6-becf359adeb5)
 ![WhatsApp Image 2025-06-23 at 11 52 26 PM](https://github.com/user-attachments/assets/b88fb122-48b4-44f1-80c0-0c009096e854)
 ![WhatsApp Image 2025-06-23 at 11 52 26 PM (2)](https://github.com/user-attachments/assets/5ed02d92-1697-4004-bfc4-6cbc70b1a113)
+![WhatsApp Image 2025-06-26 at 4 18 02 PM](https://github.com/user-attachments/assets/aa36f802-e3be-4553-9d39-c3e740c6843b)
+
 
 
 https://github.com/user-attachments/assets/c5733f9e-9a49-42fb-be06-1723523f267c
 
 https://github.com/user-attachments/assets/96f31066-a11a-449a-868c-3b5f37b356dc
+
+https://github.com/user-attachments/assets/7898da1a-939e-409c-80e2-f164a7f97d01
+
+https://github.com/user-attachments/assets/1398909e-4a7c-47ad-a6e0-b322b63fcf44
+
+
 
 Para manejar la información entre la computadora Nvidia Jetson y cada actuador, se ha implementado una red CAN:
 
