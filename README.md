@@ -17,8 +17,11 @@ El prototipo ha sido constrido por medio de impresion 3D en el laboratorio de Me
 
 
 https://github.com/user-attachments/assets/c5733f9e-9a49-42fb-be06-1723523f267c
+
 https://github.com/user-attachments/assets/96f31066-a11a-449a-868c-3b5f37b356dc
+
 https://github.com/user-attachments/assets/1398909e-4a7c-47ad-a6e0-b322b63fcf44
+
 https://github.com/user-attachments/assets/7898da1a-939e-409c-80e2-f164a7f97d01
 
 
